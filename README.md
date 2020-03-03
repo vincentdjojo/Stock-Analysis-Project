@@ -11,6 +11,8 @@ Instructions:
 1. Open indproj2.ipynb using Jupyter Notebook.
 2. Have stock-all.csv in the same folder as indproj2.ipynb
 
+OR you could just view indproj2.ipynb on GitHub.
+
 There are several steps that I used to analyse the data. 
 I mainly used classification, scatterplots and histograms to get a better understanding of the data and its patterns. 
 In this project I will be using SciKit learn which is imported in a Jupyter notebook. 
