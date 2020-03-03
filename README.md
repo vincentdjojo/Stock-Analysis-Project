@@ -1,6 +1,8 @@
 # Stock-Analysis-Project
 Apply data mining to discover patterns regarding stock data. 
 
+Read COMP4433-Project1.pdf to see more on what this project is about.
+
 Software needed:
 Anaconda 3
 Jupyter Notebook
